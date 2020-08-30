@@ -1,6 +1,5 @@
-# To-do-List
+# [To-do-List](https://raw.githack.com/stntsai/To-do-List/master/index.html)
 A to-do list page enable user to add, delete, and cross-line to-dos
-Access: [To-to List](https://raw.githack.com/stntsai/To-do-List/master/index.html)
 
 
 Built with
